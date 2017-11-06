@@ -1,0 +1,106 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>
+      Edit Item
+    </ion-title>
+  </ion-navbar>
+  
+  <ion-toolbar no-border-top>
+      <ion-segment [(ngModel)]="product">
+          <ion-segment-button value="main">
+              Main
+          </ion-segment-button>
+          <ion-segment-button value="notify">
+              Notifications
+          </ion-segment-button>
+          <ion-segment-button value="more">
+              Advanced
+          </ion-segment-button>
+      </ion-segment>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding id="page6">
+    <div [ngSwitch]="product">
+        <ion-list *ngSwitchCase="'main'" id="editItem-list4">
+            <ion-item id="editItem-list-item-container5">
+                <div id="editItem-markdown6" class="show-list-numbers-and-dots">
+                    <p style="margin-top:0px;color:#000000;">
+                    Long Description
+                    </p>
+                    <p style="color:#000000;">
+                    Current Price: $59.99
+                    </p>
+                </div>
+            </ion-item>
+            <ion-item id="editItem-range1">
+                <ion-range min="0" max="100" pin="true" step="0.5" color="positive" value="50" name="price" [(ngModel)]="price">
+                    <ion-label range-left>
+                        Target
+                    </ion-label>
+                </ion-range>
+            </ion-item>
+        </ion-list>
+        
+        <ion-list *ngSwitchCase="'notify'" id="editItem-list4">
+            <ion-item id="editItem-toggle1">
+                <ion-label>
+                    Price Drop
+                </ion-label>
+                <ion-toggle color="positive" checked="true"></ion-toggle>
+            </ion-item>
+            <ion-item id="editItem-toggle2">
+                <ion-label>
+                    Product Unavalible
+                </ion-label>
+                <ion-toggle color="positive" checked="true"></ion-toggle>
+            </ion-item>
+            <ion-item id="editItem-toggle3">
+                <ion-label>
+                    New Supplier
+                </ion-label>
+                <ion-toggle color="positive" checked="false"></ion-toggle>
+            </ion-item>
+        </ion-list>
+        
+        <ion-list *ngSwitchCase="'more'" id="editItem-list4">
+            <ion-item id="editItem-toggle4">
+                <ion-label>
+                    Add to Cart
+                </ion-label>
+                <ion-toggle color="positive" checked="true"></ion-toggle>
+            </ion-item>
+            <ion-item id="editItem-toggle5">
+                <ion-label>
+                    SMS updates
+                </ion-label>
+                <ion-toggle color="positive" checked="false"></ion-toggle>
+            </ion-item>
+            <ion-item id="editItem-select1">
+                <ion-label>
+                    Update Interval
+                </ion-label>
+                <ion-select name="more3">
+                    <ion-option>
+                        1 Minute
+                    </ion-option>
+                    <ion-option>
+                        5 Minutes
+                    </ion-option>
+                    <ion-option>
+                        15 Minutes
+                    </ion-option>
+                    <ion-option>
+                        1 Hour
+                    </ion-option>
+                    <ion-option>
+                        1 Day
+                    </ion-option>
+                </ion-select>
+            </ion-item>
+        </ion-list>
+    </div>
+</ion-content>
