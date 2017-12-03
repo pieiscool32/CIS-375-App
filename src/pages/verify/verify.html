@@ -6,15 +6,16 @@
   </ion-navbar>
 </ion-header>
 <ion-content padding id="page5">
-  <form id="verify-form2">
+  <form id="verify-form" (ngSubmit)="checkCode()">
+      <ion-item *ngIf="error != undefined">{{ error }}</ion-item>
     <ion-list id="verify-list3">
       <ion-item id="verify-input3">
         <ion-label></ion-label>
-        <ion-input type="number" placeholder="1234"></ion-input>
+        <ion-input type="number" placeholder="1234" [(ngModel)]="code.val" name="code"></ion-input>
       </ion-item>
     </ion-list>
     <div class="spacer" style="height:40px;" id="verify-spacer2"></div>
-    <button id="verify-button3" ion-button color="positive" block on-click="goToHome()">
+    <button id="verify-button" ion-button color="positive" block>
       Log in
     </button>
   </form>

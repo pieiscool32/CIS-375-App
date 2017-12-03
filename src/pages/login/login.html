@@ -6,19 +6,19 @@
   </ion-navbar>
 </ion-header>
 <ion-content padding id="page4">
-  <form id="login-form1">
+  <form id="login-form" (ngSubmit)="goHome()">
     <ion-list id="login-list2">
       <ion-item id="login-input1">
         <ion-label>1+</ion-label>
-        <ion-input type="tel" placeholder="1235551234"></ion-input>
+        <ion-input type="tel" placeholder="1235551234" [(ngModel)]="number.val" name="number"></ion-input>
       </ion-item>
     </ion-list>
     <div class="spacer" style="height:40px;" id="login-spacer1"></div>
-    <button id="login-button1" ion-button color="positive" block on-click="goToVerify()">
-      Send Text
+    <button id="login-button-sms" ion-button color="positive" block>
+      Text Code
     </button>
-    <button id="login-button2" ion-button clear color="positive" block href-inappbrowser="/signup">
-      Or create an account
+    <button (ng-click)="callForm()" id="login-button-call" ion-button color="positive" block>
+      Call Code
     </button>
   </form>
 </ion-content>

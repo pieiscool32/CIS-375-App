@@ -4,12 +4,18 @@
       <ion-icon name="menu"></ion-icon>
     </button>
     <ion-title>
-      Edit Item
+      {{ product }}
     </ion-title>
   </ion-navbar>
   
   <ion-toolbar no-border-top>
-      <ion-segment [(ngModel)]="product">
+      <ion-buttons end>
+          <button  ion-button icon-only (click)="save()">
+              <ion-icon name="build" *ngIf="saved == true"></ion-icon>
+              <ion-icon name="checkmark" *ngIf="saved == false"></ion-icon>
+          </button>
+      </ion-buttons>
+      <ion-segment [(ngModel)]="menu">
           <ion-segment-button value="main">
               Main
           </ion-segment-button>
@@ -24,81 +30,72 @@
 </ion-header>
 
 <ion-content padding id="page6">
-    <div [ngSwitch]="product">
-        <ion-list *ngSwitchCase="'main'" id="editItem-list4">
-            <ion-item id="editItem-list-item-container5">
-                <div id="editItem-markdown6" class="show-list-numbers-and-dots">
-                    <p style="margin-top:0px;color:#000000;">
-                    Long Description
+    <div [ngSwitch]="menu">
+        <ion-list *ngSwitchCase="'main'">
+            <ion-item>
+                <div class="show-list-numbers-and-dots">
+                    <p style="margin-top:0px;color:#000000;" text-wrap>
+                    {{ desc }}
                     </p>
-                    <p style="color:#000000;">
-                    Current Price: $59.99
+                    <p style="color:#000000;" (click)="clear()">
+                    Current Price: {{ price }}
                     </p>
                 </div>
             </ion-item>
-            <ion-item id="editItem-range1">
-                <ion-range min="0" max="100" pin="true" step="0.5" color="positive" value="50" name="price" [(ngModel)]="price">
+            <ion-item *ngIf="saved == true">
+                Target: {{ target }}
+            </ion-item>
+            <ion-item *ngIf="saved == false">
+                <ion-range min="{{ slider*0.5 }}" max="{{ slider*1.5 }}" pin="true" step="0.5" color="positive" ng-value="target" name="price" [(ngModel)]="target">
                     <ion-label range-left>
                         Target
                     </ion-label>
                 </ion-range>
             </ion-item>
+            <ion-item>
+                <ion-spinner *ngIf="lineChart === null"></ion-spinner>
+                <canvas #lineCanvas></canvas>
+            </ion-item>
         </ion-list>
         
-        <ion-list *ngSwitchCase="'notify'" id="editItem-list4">
+        <ion-list *ngSwitchCase="'notify'">
             <ion-item id="editItem-toggle1">
                 <ion-label>
                     Price Drop
                 </ion-label>
-                <ion-toggle color="positive" checked="true"></ion-toggle>
+                <ion-toggle color="positive" checked="{{ drop }}" disabled="true" *ngIf="saved == true"></ion-toggle>
+                <ion-toggle color="positive" checked="{{ drop }}" *ngIf="saved == false"></ion-toggle>
             </ion-item>
             <ion-item id="editItem-toggle2">
                 <ion-label>
                     Product Unavalible
                 </ion-label>
-                <ion-toggle color="positive" checked="true"></ion-toggle>
-            </ion-item>
-            <ion-item id="editItem-toggle3">
-                <ion-label>
-                    New Supplier
-                </ion-label>
-                <ion-toggle color="positive" checked="false"></ion-toggle>
+                <ion-toggle color="positive" checked="{{ unavailable }}" disabled="true" *ngIf="saved == true"></ion-toggle>
+                <ion-toggle color="positive" checked="{{ unavailable }}" *ngIf="saved == false"></ion-toggle>
             </ion-item>
         </ion-list>
         
         <ion-list *ngSwitchCase="'more'" id="editItem-list4">
-            <ion-item id="editItem-toggle4">
-                <ion-label>
-                    Add to Cart
-                </ion-label>
-                <ion-toggle color="positive" checked="true"></ion-toggle>
-            </ion-item>
-            <ion-item id="editItem-toggle5">
+            <ion-item>
                 <ion-label>
                     SMS updates
                 </ion-label>
-                <ion-toggle color="positive" checked="false"></ion-toggle>
+                <ion-toggle color="positive" checked="{{ doSMS }}" disabled="true" *ngIf="saved == true"></ion-toggle>
+                <ion-toggle color="positive" checked="{{ doSMS }}" *ngIf="saved == false"></ion-toggle>
             </ion-item>
-            <ion-item id="editItem-select1">
+            <ion-item *ngIf="saved == true">
+                Update Interval: {{ interval }}
+            </ion-item>
+            <ion-item *ngIf="saved == false">
                 <ion-label>
                     Update Interval
                 </ion-label>
-                <ion-select name="more3">
-                    <ion-option>
-                        1 Minute
-                    </ion-option>
-                    <ion-option>
-                        5 Minutes
-                    </ion-option>
-                    <ion-option>
-                        15 Minutes
-                    </ion-option>
-                    <ion-option>
-                        1 Hour
-                    </ion-option>
-                    <ion-option>
-                        1 Day
-                    </ion-option>
+                <ion-select [(ngModel)]="interval">
+                    <ion-option>1 Minute</ion-option>
+                    <ion-option>5 Minutes</ion-option>
+                    <ion-option>15 Minutes</ion-option>
+                    <ion-option>1 Hour</ion-option>
+                    <ion-option>1 Day</ion-option>
                 </ion-select>
             </ion-item>
         </ion-list>

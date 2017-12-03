@@ -10,7 +10,8 @@ import { VerifyPage } from '../pages/verify/verify';
 import { EditItemPage } from '../pages/edit-item/edit-item';
 import { AddPage } from '../pages/add/add';
 
-
+import { HttpModule } from '@angular/http';
+import { IonicStorageModule } from '@ionic/storage';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
@@ -26,8 +27,10 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     AddPage
   ],
   imports: [
-    BrowserModule,
-    IonicModule.forRoot(MyApp)
+      BrowserModule,
+      HttpModule,
+      IonicModule.forRoot(MyApp),
+      IonicStorageModule.forRoot()
   ],
   bootstrap: [IonicApp],
   entryComponents: [
@@ -41,9 +44,9 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     AddPage
   ],
   providers: [
-    StatusBar,
-    SplashScreen,
-    {provide: ErrorHandler, useClass: IonicErrorHandler}
+      StatusBar,
+      SplashScreen,
+      {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
 export class AppModule {}
