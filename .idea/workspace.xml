@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eb12902-24c5-4001-ab8d-696c8adf08ac" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/home/content.html" />
+      <change beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/.jshintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/.npmignore" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/.npmignore" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Private/CDVJSON_private.m" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Private/CDVJSON_private.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewDelegate.m" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewDelegate.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewNavigationDelegate.m" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewNavigationDelegate.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVAppDelegate.m" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVAppDelegate.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVAvailability.h" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVAvailability.h" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVPlugin.h" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVPlugin.h" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVPlugin.m" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVPlugin.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVUserAgentUtil.m" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/Classes/Public/CDVUserAgentUtil.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/VERSION" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/VERSION" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/cordova.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/CordovaLib/cordova.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/RELEASENOTES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/appveyor.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/appveyor.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/apple_ios_version" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/apple_ios_version" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/apple_osx_version" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/apple_osx_version" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/apple_xcode_version" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/apple_xcode_version" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/check_reqs" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/check_reqs" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/lib/check_reqs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/lib/create.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/lib/create.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/lib/versions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/CDVLaunchScreen.storyboard" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/CDVLaunchScreen.storyboard" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/Images.xcassets/LaunchImage.launchimage/Contents.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/Images.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/config.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/__PROJECT_NAME__/config.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/www/js/index.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/project/www/js/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/Api.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/Api.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/build" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/build" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/defaults.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/defaults.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/Podfile.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/Podfile.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/PodsJson.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/PodsJson.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/build.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/build.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/clean.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/clean.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/copy-www-build-step.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/copy-www-build-step.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-devices" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-devices" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-emulator-build-targets" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-emulator-build-targets" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-emulator-images" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-emulator-images" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-started-emulators" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/list-started-emulators" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/plugman/pluginHandlers.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/plugman/pluginHandlers.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/prepare.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/prepare.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/projectFile.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/projectFile.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/run.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/run.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/spawn.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/lib/spawn.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/run" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/run" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/version" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/bin/templates/scripts/cordova/version" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/cordova-js-src/platform.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/cordova-js-src/platform.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/.bin/uuid" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/abbrev/LICENSE" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/abbrev/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/abbrev/abbrev.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/abbrev/abbrev.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/abbrev/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/abbrev/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ansi/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/balanced-match/index.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/balanced-match/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/balanced-match/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/base64-js/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/base64-js/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/BigInteger.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/BigInteger.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/BigInteger.min.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/BigInteger.min.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/bower.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/bower.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/big-integer/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-creator/bplistCreator.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-creator/bplistCreator.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-creator/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-creator/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-creator/test/sample1.bplist" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-creator/test/sample1.bplist" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/bplist-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/brace-expansion/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/brace-expansion/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/brace-expansion/index.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/brace-expansion/index.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/brace-expansion/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/brace-expansion/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/concat-map/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/concat-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/.jshintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/.ratignore" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/.ratignore" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/RELEASENOTES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ActionStack.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ActionStack.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/ConfigChanges.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/ConfigChanges.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/ConfigFile.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/ConfigFile.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/ConfigKeeper.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/ConfigKeeper.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/munge-util.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigChanges/munge-util.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigParser/ConfigParser.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/ConfigParser/ConfigParser.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaCheck.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaCheck.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaError/CordovaError.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaError/CordovaError.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaError/CordovaExternalToolErrorContext.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaError/CordovaExternalToolErrorContext.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaLogger.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/CordovaLogger.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/FileUpdater.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/FileUpdater.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PlatformJson.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PlatformJson.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PluginInfo/PluginInfo.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PluginInfo/PluginInfo.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PluginInfo/PluginInfoProvider.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PluginInfo/PluginInfoProvider.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PluginManager.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/PluginManager.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/events.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/events.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/superspawn.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/superspawn.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/util/addProperty.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/util/addProperty.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/util/plist-helpers.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/util/plist-helpers.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/util/xml-helpers.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-common/src/util/xml-helpers.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-registry-mapper/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/cordova-registry-mapper/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/elementtree/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/elementtree/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/glob/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/inflight/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/inflight/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/inherits/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/.github/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/.github/ISSUE_TEMPLATE.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/appveyor.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/appveyor.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/node_modules/bplist-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/node_modules/bplist-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/node_modules/nopt/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/spec/commands.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/spec/commands.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/spec/lib.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/spec/lib.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/src/cli.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/src/cli.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/src/commands.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/src/commands.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/src/lib.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/ios-sim/src/lib.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/lodash/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/minimatch/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/minimatch/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/benchmark/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/benchmark/bench.gnu" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/benchmark/bench.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/benchmark/benchmark-native.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/benchmark/benchmark.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/bin/uuid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/test/compare_v1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/test/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/test/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/node-uuid/uuid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/nopt/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/once/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/once/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/os-homedir/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/os-homedir/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/os-tmpdir/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/os-tmpdir/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/osenv/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/osenv/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/osenv/test/unix.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/osenv/test/unix.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/path-is-absolute/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/path-is-absolute/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/LICENSE" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/VERSION" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/VERSION" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/bin/pegjs" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/bin/pegjs" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/arithmetics.pegjs" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/arithmetics.pegjs" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/css.pegjs" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/css.pegjs" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/javascript.pegjs" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/javascript.pegjs" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/json.pegjs" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/examples/json.pegjs" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/asts.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/asts.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/passes/generate-javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/passes/report-infinite-loops.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/passes/report-left-recursion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/passes/report-missing-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/visitor.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/compiler/visitor.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/parser.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/parser.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/peg.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/lib/peg.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/pegjs/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/plist/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/plist/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/CHANGES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/CHANGES.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/LICENSE" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/q.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/q/q.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/sax/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/sax/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/semver/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/semver/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/semver/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/semver/semver.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/semver/semver.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/shelljs/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/shelljs/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/lib/simctl-extensions.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/lib/simctl-extensions.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/lib/simctl-list-parser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/node_modules/shelljs/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/node_modules/shelljs/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/simctl.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/simctl.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simctl/spec/simctl-list-parser.spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/bplistParser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/test/airplay.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/test/iTunes-small.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/test/parseTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/test/sample1.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/test/sample2.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/test/uid.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/node_modules/bplist-parser/test/utf16.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/simple-plist.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/simple-plist/simple-plist.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/.mailmap" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/.mailmap" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/README.md" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/coverage.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/lib/constants.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/lib/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/lib/readable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/lib/streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/lib/writable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/sort-arrow-sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov-report/sorter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/coverage/lcov.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/lib/readable_streambuffer.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/lib/readable_streambuffer.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/lib/writable_streambuffer.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/lib/writable_streambuffer.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/stream-buffers/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/tail/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/tail/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/underscore/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/underscore/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/unorm/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/unorm/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/util-deprecate/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/wrappy/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/wrappy/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/.bin/pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/.bin/uuid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/LICENSE.MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/base64js.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/lib/b64.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/test/big-data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/test/convert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/base64-js/test/url-safe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/bplistCreator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/airplay.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/binaryData.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/creatorTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/iTunes-small.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/sample1.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/sample2.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/uid.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/bplist-creator/test/utf16.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/VERSION" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/bin/pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/examples/arithmetics.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/examples/css.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/examples/javascript.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/examples/json.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/asts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/js.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/opcodes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/generate-js.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/remove-proxy-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-duplicate-labels.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-duplicate-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-infinite-recursion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-infinite-repetition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-undefined-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/compiler/visitor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/grammar-error.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/parser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/peg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/utils/arrays.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/utils/classes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/lib/utils/objects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/pegjs/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/History.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/dist/plist-build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/dist/plist-parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/dist/plist.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/examples/browser/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/lib/build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/lib/parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/plist/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/simple-plist/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/simple-plist/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/simple-plist/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/simple-plist/simple-plist.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/.mailmap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/UNLICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/coverage.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/constants.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/readable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/writable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/sort-arrow-sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/sorter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/coverage/lcov.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/lib/constants.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/lib/readable_streambuffer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/lib/streambuffer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/lib/writable_streambuffer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/stream-buffers/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/HISTORY.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/bin/uuid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/lib/bytesToUuid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/lib/rng-browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/lib/rng.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/test/mocha.opts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/test/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/v1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/uuid/v4.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/Utility.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLAttribute.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLCData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLComment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDAttList.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDElement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDEntity.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDNotation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDeclaration.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDocType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDocument.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDocumentCB.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLElement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLNode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLProcessingInstruction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLRaw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLStreamWriter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLStringWriter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLStringifier.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLText.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/XMLWriterBase.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xcode/node_modules/xmlbuilder/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xml-escape/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xml-escape/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmlbuilder/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmlbuilder/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmldom/dom-parser.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmldom/dom-parser.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmldom/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmldom/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmldom/sax.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/node_modules/xmldom/sax.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/spec/support/jasmine.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/CordovaLibTests/CDVWebViewDelegateTests.m" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/CordovaLibTests/CDVWebViewDelegateTests.m" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/scripts/killsim.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/scripts/killsim.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/create.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/create.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Api.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Api.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Plugman/common.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Plugman/common.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Plugman/pluginHandler.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Plugman/pluginHandler.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Podfile.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/Podfile.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/PodsJson.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/PodsJson.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/build.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/build.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp.xcodeproj/project.orig.pbxproj" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp.xcodeproj/project.orig.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp/Images.xcassets/LaunchStoryboard.imageset/Contents.json" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp/Images.xcassets/LaunchStoryboard.imageset/Contents.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp/SampleApp-Info.plist" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp/SampleApp-Info.plist" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp/config.xml" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/ios-config-xml/SampleApp/config.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/empty.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/empty.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/single-2xanyany.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/single-2xanyany.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/typical-universal.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/typical-universal.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/varied-device.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-json/varied-device.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/empty-map.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/empty-map.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/single-2xanyany-map.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/single-2xanyany-map.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/typical-universal-map.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/typical-universal-map.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/varied-device-map.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/launch-storyboard-support/contents-map/varied-device-map.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/org.test.plugins.dummyplugin/www/dummyplugin.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/fixtures/org.test.plugins.dummyplugin/www/dummyplugin.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/prepare.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/prepare.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/preparePlatform.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/preparePlatform.spec.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/projectFile.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-ios/tests/spec/unit/projectFile.spec.js" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/CDVJSON_private.m" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/CDVJSON_private.m" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewDelegate.m" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewDelegate.m" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewNavigationDelegate.m" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewNavigationDelegate.m" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAppDelegate.m" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAppDelegate.m" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAvailability.h" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAvailability.h" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin.h" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin.h" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin.m" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin.m" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVUserAgentUtil.m" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVUserAgentUtil.m" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/christianmunte.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/christianmunte.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/VERSION" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/VERSION" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/cordova.js" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/cordova.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Info.plist" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/Assets.car" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/Assets.car" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/Info.plist" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/MainViewController.nib" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/MainViewController.nib" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/UI Demo" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/UI Demo" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/_CodeSignature/CodeResources" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/config.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/embedded.mobileprovision" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/embedded.mobileprovision" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/www/cordova-js-src/platform.js" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/www/cordova-js-src/platform.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/www/cordova.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcarchive/Products/Applications/UI Demo.app/www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcodeproj/project.xcworkspace/xcuserdata/christianmunte.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcodeproj/project.xcworkspace/xcuserdata/christianmunte.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo.xcodeproj/xcuserdata/christianmunte.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo.xcodeproj/xcuserdata/christianmunte.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo/CDVLaunchScreen.storyboard" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo/CDVLaunchScreen.storyboard" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo/Images.xcassets/LaunchImage.launchimage/Contents.json" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo/Images.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo/UI Demo-Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo/UI Demo-Info.plist" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/UI Demo/config.xml" afterPath="$PROJECT_DIR$/platforms/ios/UI Demo/config.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/Api.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/Api.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/build" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/defaults.xml" afterPath="$PROJECT_DIR$/platforms/ios/cordova/defaults.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/Podfile.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/Podfile.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/PodsJson.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/PodsJson.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/build.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/build.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/check_reqs.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/check_reqs.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/clean.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/clean.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/copy-www-build-step.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/copy-www-build-step.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-devices" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-devices" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-build-targets" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-build-targets" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-images" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-images" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-started-emulators" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-started-emulators" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/plugman/pluginHandlers.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/plugman/pluginHandlers.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/prepare.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/prepare.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/projectFile.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/projectFile.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/run.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/run.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/spawn.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/spawn.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/lib/versions.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/versions.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/.bin/uuid" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/abbrev/LICENSE" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/abbrev/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/abbrev/abbrev.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/abbrev/abbrev.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/abbrev/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/abbrev/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ansi/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ansi/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/balanced-match/index.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/balanced-match/index.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/balanced-match/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/base64-js/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/base64-js/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/BigInteger.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/BigInteger.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/BigInteger.min.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/BigInteger.min.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/bower.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/bower.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/big-integer/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-creator/bplistCreator.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-creator/bplistCreator.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-creator/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-creator/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-creator/test/sample1.bplist" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-creator/test/sample1.bplist" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-parser/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/bplist-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/brace-expansion/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/brace-expansion/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/brace-expansion/index.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/brace-expansion/index.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/brace-expansion/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/brace-expansion/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/concat-map/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/concat-map/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/.jshintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/.ratignore" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/.ratignore" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/RELEASENOTES.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/RELEASENOTES.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ActionStack.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ActionStack.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/ConfigChanges.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/ConfigChanges.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/ConfigFile.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/ConfigFile.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/ConfigKeeper.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/ConfigKeeper.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/munge-util.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigChanges/munge-util.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigParser/ConfigParser.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/ConfigParser/ConfigParser.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaCheck.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaCheck.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaError/CordovaError.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaError/CordovaError.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaError/CordovaExternalToolErrorContext.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaError/CordovaExternalToolErrorContext.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaLogger.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/CordovaLogger.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/FileUpdater.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/FileUpdater.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PlatformJson.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PlatformJson.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PluginInfo/PluginInfo.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PluginInfo/PluginInfo.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PluginInfo/PluginInfoProvider.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PluginInfo/PluginInfoProvider.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PluginManager.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/PluginManager.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/events.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/events.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/superspawn.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/superspawn.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/util/addProperty.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/util/addProperty.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/util/plist-helpers.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/util/plist-helpers.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/util/xml-helpers.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-common/src/util/xml-helpers.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-registry-mapper/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/cordova-registry-mapper/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/elementtree/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/elementtree/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/inflight/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/inflight/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/inherits/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/.github/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/.github/ISSUE_TEMPLATE.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/.travis.yml" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/appveyor.yml" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/appveyor.yml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/node_modules/bplist-parser/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/node_modules/bplist-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/node_modules/nopt/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/spec/commands.spec.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/spec/commands.spec.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/spec/lib.spec.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/spec/lib.spec.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/src/cli.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/src/cli.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/src/commands.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/src/commands.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/src/lib.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/ios-sim/src/lib.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/lodash/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/minimatch/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/minimatch/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/benchmark/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/benchmark/bench.gnu" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/benchmark/bench.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/benchmark/benchmark-native.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/benchmark/benchmark.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/bin/uuid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/test/compare_v1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/test/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/test/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/node-uuid/uuid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/once/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/once/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/os-homedir/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/os-homedir/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/os-tmpdir/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/os-tmpdir/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/osenv/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/osenv/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/osenv/test/unix.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/osenv/test/unix.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/path-is-absolute/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/path-is-absolute/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/CHANGELOG.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/LICENSE" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/VERSION" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/VERSION" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/bin/pegjs" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/bin/pegjs" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/arithmetics.pegjs" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/arithmetics.pegjs" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/css.pegjs" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/css.pegjs" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/javascript.pegjs" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/javascript.pegjs" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/json.pegjs" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/examples/json.pegjs" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/asts.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/asts.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/passes/generate-javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/passes/report-infinite-loops.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/passes/report-left-recursion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/passes/report-missing-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/visitor.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/compiler/visitor.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/parser.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/parser.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/peg.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/lib/peg.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/pegjs/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/plist/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/plist/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/CHANGES.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/CHANGES.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/LICENSE" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/q.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/q.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/sax/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/sax/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/semver/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/semver/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/semver/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/semver/semver.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/semver/semver.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/shelljs/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/shelljs/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/lib/simctl-extensions.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/lib/simctl-extensions.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/lib/simctl-list-parser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/node_modules/shelljs/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/node_modules/shelljs/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/simctl.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/simctl.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simctl/spec/simctl-list-parser.spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/bplistParser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/test/airplay.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/test/iTunes-small.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/test/parseTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/test/sample1.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/test/sample2.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/test/uid.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/node_modules/bplist-parser/test/utf16.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/simple-plist.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/simple-plist/simple-plist.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/.mailmap" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/.mailmap" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/.travis.yml" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/README.md" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/README.md" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/coverage.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/lib/constants.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/lib/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/lib/readable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/lib/streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/lib/writable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/sort-arrow-sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov-report/sorter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/coverage/lcov.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/lib/readable_streambuffer.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/lib/readable_streambuffer.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/lib/writable_streambuffer.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/lib/writable_streambuffer.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/stream-buffers/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/tail/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/tail/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/underscore/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/underscore/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/unorm/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/unorm/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/util-deprecate/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/wrappy/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/wrappy/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/.bin/pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/.bin/uuid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/LICENSE.MIT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/base64js.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/lib/b64.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/test/big-data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/test/convert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/base64-js/test/url-safe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/bplistCreator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/airplay.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/binaryData.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/creatorTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/iTunes-small.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/sample1.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/sample2.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/uid.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/bplist-creator/test/utf16.bplist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/VERSION" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/bin/pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/examples/arithmetics.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/examples/css.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/examples/javascript.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/examples/json.pegjs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/asts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/js.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/opcodes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/generate-js.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/remove-proxy-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-duplicate-labels.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-duplicate-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-infinite-recursion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-infinite-repetition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/passes/report-undefined-rules.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/compiler/visitor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/grammar-error.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/parser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/peg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/utils/arrays.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/utils/classes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/lib/utils/objects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/pegjs/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/History.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/dist/plist-build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/dist/plist-parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/dist/plist.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/examples/browser/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/lib/build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/lib/parse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/plist/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/simple-plist/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/simple-plist/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/simple-plist/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/simple-plist/simple-plist.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/.mailmap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/UNLICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/coverage.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/constants.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/readable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/lib/writable_streambuffer.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/sort-arrow-sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov-report/sorter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/coverage/lcov.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/lib/constants.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/lib/readable_streambuffer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/lib/streambuffer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/lib/writable_streambuffer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/stream-buffers/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/HISTORY.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/bin/uuid" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/lib/bytesToUuid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/lib/rng-browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/lib/rng.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/test/mocha.opts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/test/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/v1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/uuid/v4.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/Utility.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLAttribute.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLCData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLComment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDAttList.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDElement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDEntity.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDTDNotation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDeclaration.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDocType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDocument.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLDocumentCB.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLElement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLNode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLProcessingInstruction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLRaw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLStreamWriter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLStringWriter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLStringifier.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLText.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/XMLWriterBase.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/lib/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xcode/node_modules/xmlbuilder/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xml-escape/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xml-escape/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmlbuilder/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmlbuilder/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmldom/dom-parser.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmldom/dom-parser.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmldom/package.json" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmldom/package.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmldom/sax.js" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/xmldom/sax.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/run" afterPath="$PROJECT_DIR$/platforms/ios/cordova/run" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/version" afterPath="$PROJECT_DIR$/platforms/ios/cordova/version" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/ios.json" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova-js-src/platform.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova-js-src/platform.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova-js-src/platform.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova-js-src/platform.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/platforms.json" afterPath="$PROJECT_DIR$/platforms/platforms.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/fetch.json" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/ios.json" afterPath="$PROJECT_DIR$/plugins/ios.json" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/src/pages/add/add.html" afterPath="$PROJECT_DIR$/src/pages/add/add.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/add/add.ts" afterPath="$PROJECT_DIR$/src/pages/add/add.ts" />
+      <change beforePath="$PROJECT_DIR$/src/pages/edit-item/edit-item.html" afterPath="$PROJECT_DIR$/src/pages/edit-item/edit-item.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/edit-item/edit-item.ts" afterPath="$PROJECT_DIR$/src/pages/edit-item/edit-item.ts" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/home.html" afterPath="$PROJECT_DIR$/src/pages/home/home.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/home.ts" afterPath="$PROJECT_DIR$/src/pages/home/home.ts" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/login.html" afterPath="$PROJECT_DIR$/src/pages/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/login.ts" afterPath="$PROJECT_DIR$/src/pages/login/login.ts" />
+      <change beforePath="$PROJECT_DIR$/src/pages/settings/settings.html" afterPath="$PROJECT_DIR$/src/pages/settings/settings.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/settings/settings.ts" afterPath="$PROJECT_DIR$/src/pages/settings/settings.ts" />
+      <change beforePath="$PROJECT_DIR$/src/pages/verify/verify.html" afterPath="$PROJECT_DIR$/src/pages/verify/verify.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/verify/verify.ts" afterPath="$PROJECT_DIR$/src/pages/verify/verify.ts" />
+      <change beforePath="$PROJECT_DIR$/www/build/main.js" afterPath="$PROJECT_DIR$/www/build/main.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/main.js.map" afterPath="$PROJECT_DIR$/www/build/main.js.map" />
+      <change beforePath="$PROJECT_DIR$/www/build/vendor.js" afterPath="$PROJECT_DIR$/www/build/vendor.js" />
+      <change beforePath="$PROJECT_DIR$/www/build/vendor.js.map" afterPath="$PROJECT_DIR$/www/build/vendor.js.map" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="403">
+                  <caret line="33" column="54" lean-forward="false" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+                  <folding>
+                    <element signature="n#style#0;n#p#1;n#div#0;n#ion-item#0;n#ion-list#0;n#ion-card#0;n#ion-content#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="edit-item.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/edit-item/edit-item.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+                  <folding>
+                    <element signature="n#style#0;n#p#0;n#div#0;n#ion-item#0;n#ion-list#0;n#div#0;n#ion-content#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#1;n#div#0;n#ion-item#0;n#ion-list#0;n#div#0;n#ion-content#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="add.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/add/add.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#ion-content#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#ion-content#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="login.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/login/login.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="verify.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/verify/verify.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#55#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="home.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/home/home.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="edit-item.ts" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/edit-item/edit-item.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="421">
+                  <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#53#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="add.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/pages/add/add.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#0#42#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/home/content.ts.html" />
+        <option value="$PROJECT_DIR$/src/pages/home/content.html" />
+        <option value="$PROJECT_DIR$/src/pages/login/login.html" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/pages/login/login.ts" />
+        <option value="$PROJECT_DIR$/src/pages/settings/settings.ts" />
+        <option value="$PROJECT_DIR$/src/pages/settings/settings.html" />
+        <option value="$PROJECT_DIR$/src/pages/verify/verify.html" />
+        <option value="$PROJECT_DIR$/src/pages/verify/verify.ts" />
+        <option value="$PROJECT_DIR$/src/pages/add/add.ts" />
+        <option value="$PROJECT_DIR$/src/pages/add/add.html" />
+        <option value="$PROJECT_DIR$/src/pages/home/home.html" />
+        <option value="$PROJECT_DIR$/src/pages/home/home.ts" />
+        <option value="$PROJECT_DIR$/src/pages/edit-item/edit-item.html" />
+        <option value="$PROJECT_DIR$/src/pages/edit-item/edit-item.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="add" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="edit-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CIS-375-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CIS-375-App" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="verify" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.phonegap" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="excluded.www.directory" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main Build" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" value="/usr/local/bin/ionic" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="prepare" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="ios" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eb12902-24c5-4001-ab8d-696c8adf08ac" name="Default" comment="" />
+      <created>1511993700708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511993700708</updated>
+      <workItem from="1511993703245" duration="44425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44425000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/home/content.ts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/add/add.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/settings/settings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/settings/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/verify/verify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/verify/verify.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/add/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#ion-content#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/add/add.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="33" column="54" lean-forward="false" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#ion-item#0;n#ion-list#0;n#ion-card#0;n#ion-content#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/edit-item/edit-item.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/edit-item/edit-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#ion-item#0;n#ion-list#0;n#div#0;n#ion-content#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#ion-item#0;n#ion-list#0;n#div#0;n#ion-content#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
